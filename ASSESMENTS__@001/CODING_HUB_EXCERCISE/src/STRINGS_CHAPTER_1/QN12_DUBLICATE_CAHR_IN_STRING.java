@@ -1,0 +1,6 @@
+package STRINGS_CHAPTER_1;
+
+public class QN12_DUBLICATE_CAHR_IN_STRING
+{
+
+}
