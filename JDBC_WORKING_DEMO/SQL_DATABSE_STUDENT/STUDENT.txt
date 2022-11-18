@@ -1,0 +1,8 @@
+use jdbc;
+CREATE TABLE student (
+    name  varchar(255),
+    id int);
+INSERT INTO student VALUES ('rakesh','1');
+INSERT INTO student VALUES ('anil','2');
+select name from student where id =1;
+
