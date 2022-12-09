@@ -1,6 +1,0 @@
-package STRINGS_CHAPTER_1;
-
-public class QN11_NO_OF_VOWELS_CONSONENTS
-{
-
-}
